@@ -1,1 +1,1 @@
-const test4 = "test2"
+const test10 = 10
